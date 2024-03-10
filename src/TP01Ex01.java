@@ -1,5 +1,7 @@
 /* 1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua área. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
