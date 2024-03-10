@@ -2,6 +2,8 @@
 dois metros e que um quilômetro possui mil metros, fazer um programa para
 converter milhas marítimas em quilômetros. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
