@@ -1,5 +1,7 @@
 /* 4. A partir dos valores da base e altura de um triângulo, calcular e exibir sua área. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
