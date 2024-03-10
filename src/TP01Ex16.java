@@ -2,6 +2,8 @@
 seguintes funções trigonométricas: seno, cosseno, tangente e secante deste ângulo.
 Lembre-se que uma função trigonométrica trabalha em radianos. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
