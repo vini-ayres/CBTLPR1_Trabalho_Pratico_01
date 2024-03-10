@@ -2,6 +2,8 @@
 “r” inscrita em um cubo perfeito de aresta “a”. Os valores de “r “ e “a” serão
 digitados. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
