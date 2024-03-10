@@ -1,6 +1,8 @@
 /* 15. Entrar via teclado com o valor da cotação do dólar e uma certa quantidade de
 dólares. Calcular e exibir o valor correspondente em Reais (R$). */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
