@@ -2,6 +2,8 @@
 valores da velocidade inicial (em m/s), da aceleração (m/s2) e do tempo de percurso
 (em s) que serão digitados. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
