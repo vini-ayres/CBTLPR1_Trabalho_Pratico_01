@@ -1,6 +1,8 @@
 /* 3. Calcular e exibir a área de um quadrado a partir do valor de sua diagonal que será
 digitado. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
