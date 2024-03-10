@@ -1,6 +1,8 @@
 /* 12. Calcular e exibir o volume de um cone a partir dos valores da altura e do raio da
 base que serão digitados. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
