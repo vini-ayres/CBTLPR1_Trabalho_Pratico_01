@@ -2,6 +2,8 @@
 valor referente ao pagamento da somatória destes valores. Calcular e exibir o troco
 que deverá ser devolvido. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
