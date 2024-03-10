@@ -1,6 +1,8 @@
 /* 6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão
 digitados. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
