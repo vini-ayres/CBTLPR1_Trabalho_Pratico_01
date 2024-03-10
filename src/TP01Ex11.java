@@ -1,5 +1,7 @@
 /* 11. A partir do diâmetro de um círculo que será digitado, calcular e exibir sua área. */
 
+/* Dupla: Bianca Fonseca e Vinicius Ayres */
+
 import java.util.Locale;
 import java.util.Scanner;
 
